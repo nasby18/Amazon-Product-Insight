@@ -1,5 +1,7 @@
--- **Amazon-Product-Insight** 🌐🛍️--
--- **Uncovering Pricing, Ratings, and Reviews on Amazon Dataset 📊🌟**--
+<span style="font-size: larger;">Amazon-Product-Insight 🌐🛍️</span>
+
+<span style="font-size: medium;">Uncovering Pricing, Ratings, and Reviews on Amazon Dataset 📊🌟</span>
+
 
 Welcome to the Amazon-Product-Insight project repository! This dataset captures comprehensive information about products listed on Amazon, offering valuable insights into their details, pricing, discounts, ratings, reviews, and associated user information.
 
