@@ -5,6 +5,9 @@
 
 Welcome to the Amazon-Product-Insight project repository! This dataset captures comprehensive information about products listed on Amazon, offering valuable insights into their details, pricing, discounts, ratings, reviews, and associated user information.
 
+[Click here to access amazon data insights notebook](./amazon.ipynb)
+
+
 **Overview 📋**
 
 The Amazon-Product-Insight dataset is a rich resource for conducting various analyses related to understanding customer feedback, assessing product popularity, and formulating pricing strategies. Whether you're a data scientist, researcher, or enthusiast, this dataset opens up possibilities for uncovering patterns and trends within the vast Amazon marketplace.
